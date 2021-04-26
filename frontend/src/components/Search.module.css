@@ -1,0 +1,38 @@
+.search {
+    text-align: center;
+}
+
+.title {
+    font-size: 25px;
+}
+
+.resultCard {
+    text-align: left;
+    max-width: 900px;
+    word-wrap: break-word;
+    text-overflow: ellipsis;
+}
+
+.talkInfo {
+    color: #7c7d7c;
+}
+
+.ted {
+    color: #e63e2c;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.talk {
+    font-size: 40px;
+    color: black;
+}
+
+.resultsCount {
+    font-size: 15px;
+    color: gray;
+}
+
+.description {
+    color: #525150
+}
